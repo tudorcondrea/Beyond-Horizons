@@ -49,9 +49,9 @@ Build/*/**
 
 *_BuiltData.uasset
 
-Saved/*
+Saved/
 
-Intermediate/*
+Intermediate/
 Plugins/*/Intermediate/*
 
 DerivedDataCache/*
